@@ -48,7 +48,7 @@ If you got value from this tutorial microgame consider becoming a Donation on It
 * Jason Hansen
 * Ralevum
 * angell
-* Ben Sparks
+* Warspawn
 * YOUR NAME HERE
 
 ## Other Projects
